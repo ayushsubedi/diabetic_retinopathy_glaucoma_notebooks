@@ -7,16 +7,16 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 ### Priliminary
 - [x] collect all previous analysis notebooks
-- [ ] conduct preliminary EDA (for balanced dataset, missing images etc)
-- [ ] create balanced test train split for DR (stratify) 
-- [ ] store the dataset in drive for colab
-- [ ] identify a few research papers, create a file to store subsequently found research papers
-- [ ] identify right technology stack to use (for ML, training, PM, model versioning, stage deployment, actual deployment)
-- [ ] perform basic augmentation
-- [ ] create a version 0 base model
-- [ ] apply a random transfer learning model 
-- [ ] create a metric for evaluation
-- [ ] store the model in zenodo, or find something for version control
+- [x] conduct preliminary EDA (for balanced dataset, missing images etc)
+- [x] create balanced test train split for DR (stratify) 
+- [x] store the dataset in drive for colab
+- [x] identify a few research papers, create a file to store subsequently found research papers
+- [x] identify right technology stack to use (for ML, training, PM, model versioning, stage deployment, actual deployment)
+- [x] perform basic augmentation
+- [x] create a version 0 base model
+- [x] apply a random transfer learning model 
+- [x] create a metric for evaluation
+- [x] store the model in zenodo, or find something for version control
 - [ ] create a model that takes image as an input
 - [ ] create a streamlit app that reads model
 - [ ] streamlit app to upload and test prediction
