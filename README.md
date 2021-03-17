@@ -60,4 +60,4 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 
 ## Glaucoma Prediction
-
+![](https://www.inmedpharma.com/wp-content/uploads/2020/05/Glaucoma-compared-to-normal-vision.png)
