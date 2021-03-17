@@ -33,24 +33,22 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [ ] research kaggle winning augmentation for DR
 - [ ] apply appropriate augmentation
 - [ ] train on various pretrained models or research which is supposed to be ideal for this case https://pytorch.org/vision/stable/models.html
-- [ ] 
-
-
-
-
-#### Additional Models
-
-
+- [ ] create several neural nets (test different layers)
+- [ ] experiment with batch size
+- [ ] create confusion matrices for each training permutation
+- [ ] add specificity and sensitivity to indicators
+- [ ] create train loss and valid loss charts
 
 
 
 #### Additional datasets
-
-
+- [ ] add datasets from cheers for testing
+- [ ] add datasets from cheers for training
 
 
 
 #### Concepts/Research Papers
+- [ ]  
 
 
 
