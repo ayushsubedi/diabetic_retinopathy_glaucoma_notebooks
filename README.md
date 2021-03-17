@@ -32,6 +32,7 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 #### Model Improvement
 - [ ] research kaggle winning augmentation for DR
 - [ ] apply appropriate augmentation
+- [ ] train on various pretrained models or research which is supposed to be ideal for this case https://pytorch.org/vision/stable/models.html
 - [ ] 
 
 
