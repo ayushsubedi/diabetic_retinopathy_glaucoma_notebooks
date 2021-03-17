@@ -9,10 +9,14 @@
 ### Priliminary
 - [ ] collect all previous analysis notebooks
 - [ ] conduct preliminary EDA (for balanced dataset, missing images etc)
-- [ ] create balanced test train split for DR
+- [ ] create balanced test train split for DR (stratify) 
 - [ ] store the dataset in drive for colab
 - [ ] identify a few research papers, create a file to store subsequently found research papers
+- [ ] identify right technology stack to use
+- [ ] perform basic augmentation
 - [ ] create a version 0 base model
+- [ ] apply a random transfer learning model 
+- [ ] create a metric for evaluation
 - [ ] store the model in zenodo, or find something for version control
 - [ ] create a model that takes image as an input
 - [ ] create a streamlit app that reads data as an input 
