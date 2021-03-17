@@ -19,9 +19,10 @@
 - [ ] create a metric for evaluation
 - [ ] store the model in zenodo, or find something for version control
 - [ ] create a model that takes image as an input
-- [ ] create a streamlit app that reads data as an input 
-- [ ] research deployment
-- [ ] 
+- [ ] create a streamlit app that reads model
+- [ ] streamlit app to upload and test prediction
+- [ ] test deployment to free tier heroku
+- [ ] identify gaps 
 
 
 
