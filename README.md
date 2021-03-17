@@ -61,3 +61,7 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 ## Glaucoma Prediction
 ![](https://www.inmedpharma.com/wp-content/uploads/2020/05/Glaucoma-compared-to-normal-vision.png)
+
+Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged. It's usually caused by fluid building up in the front part of the eye, which increases pressure inside the eye. Glaucoma can lead to loss of vision if it's not diagnosed and treated early.
+
+### Identify todos
