@@ -52,6 +52,7 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [ ] read reports from kaggle competition winning authors 
 - [ ] Google research https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45732.pdf
 - [ ] Nature article https://www.nature.com/articles/s41746-019-0172-3
+- [ ] read ravi's article
 - [ ] identify more papers
 
 
