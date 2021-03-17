@@ -5,7 +5,9 @@
 
 Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels damaging the back of the eye (retina). It can cause blindness if left undiagnosed and untreated. However, it usually takes several years for diabetic retinopathy to reach a stage where it could threaten your sight.
 
-### Priliminary
+### TODOS
+
+#### Priliminary
 - [x] collect all previous analysis notebooks
 - [x] conduct preliminary EDA (for balanced dataset, missing images etc)
 - [x] create balanced test train split for DR (stratify) 
@@ -24,36 +26,36 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [x] identify gaps 
 
 
-### Model Improvement
+#### Model Improvement
 
 
 
 
 
-### Additional Models
+#### Additional Models
 
 
 
 
 
-### Additional datasets
+#### Additional datasets
 
 
 
 
 
-### Concepts/Research Papers
+#### Concepts/Research Papers
 
 
 
 
 
-### Engineering and Deployment
+#### Engineering and Deployment
 
 
 
 
-### User Interface/API
+#### User Interface/API
 
 
 
@@ -64,4 +66,6 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged. It's usually caused by fluid building up in the front part of the eye, which increases pressure inside the eye. Glaucoma can lead to loss of vision if it's not diagnosed and treated early.
 
-### Identify todos
+### TODOS
+
+- [ ] identify todos 
