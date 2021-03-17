@@ -17,13 +17,11 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [x] apply a random transfer learning model 
 - [x] create a metric for evaluation
 - [x] store the model in zenodo, or find something for version control
-- [ ] create a model that takes image as an input
-- [ ] create a streamlit app that reads model
-- [ ] streamlit app to upload and test prediction
-- [ ] test deployment to free tier heroku
-- [ ] identify gaps 
-
-
+- [x] create a model that takes image as an input
+- [x] create a streamlit app that reads model
+- [x] streamlit app to upload and test prediction
+- [x] test deployment to free tier heroku
+- [x] identify gaps 
 
 
 ### Model Improvement
