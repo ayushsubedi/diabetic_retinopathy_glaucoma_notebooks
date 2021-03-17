@@ -24,10 +24,15 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [x] streamlit app to upload and test prediction
 - [x] test deployment to free tier heroku
 - [x] identify gaps 
+- [ ] create test set
+- [ ] research saving model (the frugal way)
+- [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
 
 
 #### Model Improvement
-
+- [ ] research kaggle winning augmentation for DR
+- [ ] apply appropriate augmentation
+- [ ] 
 
 
 
