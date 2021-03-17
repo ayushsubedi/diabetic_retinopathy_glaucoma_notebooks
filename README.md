@@ -1,10 +1,9 @@
 
-
+# README
+## Diabetic Retinopathy Prediction
 ![](https://gadsdeneye.com/wp-content/uploads/diabetic-retinopathy-vector.jpg)
 
-
-# Todos
-## Diabetic Retinopathy Prediction
+Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels damaging the back of the eye (retina). It can cause blindness if left undiagnosed and untreated. However, it usually takes several years for diabetic retinopathy to reach a stage where it could threaten your sight.
 
 ### Priliminary
 - [x] collect all previous analysis notebooks
