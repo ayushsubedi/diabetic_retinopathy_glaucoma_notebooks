@@ -43,24 +43,38 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 #### Additional datasets
 - [ ] add datasets from cheers for testing
 - [ ] add datasets from cheers for training
+- [ ] train with png datasets 
 
 
 #### Concepts/Research Papers
 - [ ] read reports from kaggle competition winning authors 
-
-
-
+- [ ] Google research https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45732.pdf
+- [ ] Nature article https://www.nature.com/articles/s41746-019-0172-3
+- [ ] identify more papers
 
 
 #### Engineering and Deployment
-
-
+- [ ] Cheers fundus image has text label for left/right eye. Research on how this impacts ML
+- [ ] If there is an impact, how to get around
+- [ ] Create flask app
+- [ ] Create authentication for interface and API
+- [ ] Create a mechanism to store uploaded files
+- [ ] Create a mechanism for seemless transitioning when models are updated
+- [ ] Add issue trackers
+- [ ] Identify more engineering problems
+- [ ] Figure out ways to deploy for staging
+- [ ] Create table schema
+- [ ] Identify patient tracking
+- [ ] Create a simple dashboard 
 
 
 #### User Interface/API
-
-
-
+- [ ] Add swagger to the project for API documentation
+- [ ] Add Sphinx for project documentation
+- [ ] Add bearer authentication for API
+- [ ] Provide additional information on the interface and not just the prediction (probability, index, charts etc)
+- [ ] Use bulma or tailwind for CSS
+- [ ] Identify more UI/API todos
 
 
 ## Glaucoma Prediction
