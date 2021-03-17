@@ -40,15 +40,13 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [ ] create train loss and valid loss charts
 
 
-
 #### Additional datasets
 - [ ] add datasets from cheers for testing
 - [ ] add datasets from cheers for training
 
 
-
 #### Concepts/Research Papers
-- [ ]  
+- [ ] read reports from kaggle competition winning authors 
 
 
 
