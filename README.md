@@ -74,6 +74,8 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 
 #### User Interface/API
+- [x] Create a streamlit app
+- [x] Create a demoable app to predict DR
 - [ ] Add swagger to the project for API documentation
 - [ ] Add Sphinx for project documentation
 - [ ] Add bearer authentication for API
