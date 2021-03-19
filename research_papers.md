@@ -10,6 +10,8 @@
 
 #### https://defauw.ai/diabetic-retinopathy-detection/
 
+#####https://www.youtube.com/watch?v=dD07lnA-Rgk
+
 
 
 
