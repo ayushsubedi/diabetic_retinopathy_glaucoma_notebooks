@@ -27,7 +27,7 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [x] create test set
 - [ ] research saving model (the frugal way)
 - [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
-- [ ] create a new gmail account to store datasets
+- [x] create a new gmail account to store datasets (diabeticretinopathyglaucoma@gmail.com)
 
 
 #### Model Improvement
