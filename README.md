@@ -44,10 +44,11 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 - [ ] check if left/right eye classification model is required
 
 #### Additional datasets
-- [ ] make datasets more extensive
+- [x] make datasets more extensive (add test dataset with recoverd labels to train dataset 2015)
+- [x] add APTOS dataset 
 - [ ] add datasets from cheers for testing
 - [ ] add datasets from cheers for training
-- [ ] train with png datasets 
+
 
 
 #### Concepts/Research Papers
