@@ -31,6 +31,8 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
 - [x] create a new gmail account to store datasets (diabeticretinopathyglaucoma@gmail.com)
 
+#### Model Evaluation
+- [ ] Kappa Score 
 
 #### Model Improvement
 - [ ] research kaggle winning augmentation for DR
