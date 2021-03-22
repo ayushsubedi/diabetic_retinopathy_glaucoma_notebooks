@@ -58,7 +58,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 
 #### Concepts/Research Papers
 - [x] read reports from kaggle competition winning authors 
-- [ ] Deep Learning Approach to Diabetic Retinopathy Detection https://arxiv.org/pdf/2003.02261.pdf
+- [x] Deep Learning Approach to Diabetic Retinopathy Detection https://arxiv.org/pdf/2003.02261.pdf
 - [ ] Google research https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45732.pdf
 - [ ] Nature article https://www.nature.com/articles/s41746-019-0172-3
 - [ ] read ravi's article
