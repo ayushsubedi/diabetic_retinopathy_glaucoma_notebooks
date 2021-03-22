@@ -32,8 +32,8 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] create a new gmail account to store datasets (diabeticretinopathyglaucoma@gmail.com)
 
 #### Transfer Learning
-- [ ] resnet
-- [ ] alexnet
+- [x] resnet
+- [x] alexnet
 - [ ] vgg
 - [ ] squeezenet
 - [ ] densenet 
