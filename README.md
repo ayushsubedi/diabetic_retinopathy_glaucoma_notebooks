@@ -37,6 +37,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 #### Model Improvement
 - [ ] research kaggle winning augmentation for DR
 - [ ] apply appropriate augmentation
+- [ ] optical distortion, grid distortion, piecewise affine transform, horizontal flip, vertical flip, random rotation, random shift, random scale, a shift of RGB values, random brightness and contrast, additive Gaussian noise, blur, sharpening, embossing, random gamma, and cutout
 - [ ] train on various pretrained models or research which is supposed to be ideal for this case https://pytorch.org/vision/stable/models.html
 - [ ] create several neural nets (test different layers)
 - [ ] experiment with batch size
