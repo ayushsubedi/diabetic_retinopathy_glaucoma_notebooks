@@ -7,9 +7,12 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J-?usp=sharing
 
+
+
 ### TODOS
 
 #### Priliminary
+- [x] https://www.youtube.com/watch?v=VIrkurR446s&ab_channel=khanacademymedicine What is diabetic retinopathy?
 - [x] collect all previous analysis notebooks
 - [x] conduct preliminary EDA (for balanced dataset, missing images etc)
 - [x] create balanced test train split for DR (stratify) 
