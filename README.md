@@ -40,7 +40,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [ ] vgg
 - [ ] squeezenet
 - [ ] densenet 
-- [ ] inception
+- [x] inception
 - [ ] efficient net
 
 #### Model Improvement
