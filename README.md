@@ -37,7 +37,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 #### Transfer Learning
 - [x] resnet
 - [x] alexnet
-- [ ] vgg
+- [x] vgg
 - [ ] squeezenet
 - [ ] densenet 
 - [x] inception
