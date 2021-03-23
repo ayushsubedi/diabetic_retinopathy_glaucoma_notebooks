@@ -38,8 +38,8 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] resnet
 - [x] alexnet
 - [x] vgg
-- [ ] squeezenet
-- [ ] densenet 
+- [x] squeezenet
+- [x] densenet 
 - [x] inception
 - [ ] efficient net
 
