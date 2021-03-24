@@ -12,6 +12,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 ### TODOS
 
 #### Priliminary
+- [x] create a new gmail account to store datasets (diabeticretinopathyglaucoma@gmail.com)
 - [x] https://www.youtube.com/watch?v=VIrkurR446s&ab_channel=khanacademymedicine What is diabetic retinopathy?
 - [x] collect all previous analysis notebooks
 - [x] conduct preliminary EDA (for balanced dataset, missing images etc)
@@ -29,10 +30,11 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] streamlit app to upload and test prediction
 - [x] test deployment to free tier heroku
 - [x] identify gaps 
-- [x] create test set
+- [x] create priliminary test set
+- [x] create folder structures for saved model in the drive
 - [ ] research saving model (the frugal way)
 - [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
-- [x] create a new gmail account to store datasets (diabeticretinopathyglaucoma@gmail.com)
+
 
 #### Transfer Learning
 - [x] resnet
