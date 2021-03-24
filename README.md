@@ -61,6 +61,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 #### Additional datasets
 - [x] make datasets more extensive (add test dataset with recoverd labels to train dataset 2015)
 - [x] add APTOS dataset 
+- [x] request labelled datasets from cheers 
 - [ ] add datasets from cheers for testing
 - [ ] add datasets from cheers for training
 
