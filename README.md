@@ -49,11 +49,13 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] train on various pretrained models or research which is supposed to be ideal for this case https://pytorch.org/vision/stable/models.html
 - [x] create several neural nets (test different layers)
 - [x] experiment with batch size
+- [x] Reducing lighting-condition effects
+- [x] Cropping uninformative area
+- [x] Create custom dataloader based on ben graham kaggle winning strategy
 - [ ] create confusion matrices for each training permutation
 - [ ] add specificity and sensitivity to indicators
 - [ ] create train loss and valid loss charts
-- [x] Reducing lighting-condition effects
-- [x] Cropping uninformative area
+
 
 #### Additional Models
 - [ ] check if left/right eye classification model is required
