@@ -36,6 +36,8 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] research saving model (the frugal way)
 - [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
 
+### Resource
+- [ ] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
 
 #### Transfer Learning
 - [x] resnet
