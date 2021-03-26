@@ -17,4 +17,7 @@
 2. is one of the issue combining two different datasets, and performing the same augmentation on them?
 3. should we look into cleaning the training datasets? removing datasets that have poor quality overall, and/or confusing ones? 
 Apart from doing it manually, what might be the right way?
-4. 
+4. normally feature extraction should work but did not in this case, we had to fine tune the whole model. is this expected?
+5. should we add more layers on the classifier?
+6. how should we prepare when cheers dataset is also added? should that be part of the process from the starting?
+7. 
