@@ -32,7 +32,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] identify gaps 
 - [x] create priliminary test set
 - [x] create folder structures for saved model in the drive
-- [ ] research saving model (the frugal way)
+- [x] research saving model (the frugal way)
 - [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
 
 
