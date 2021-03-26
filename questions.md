@@ -22,3 +22,4 @@ Apart from doing it manually, what might be the right way?
 6. how should we prepare when cheers dataset is also added? should that be part of the process from the starting?
 7. is left/right eye relevant for training purposes?
 8. nepal vs dataset from the west
+9. where do you host your models? (free, prefeably private)
