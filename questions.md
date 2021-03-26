@@ -12,7 +12,9 @@
 - augmentation (horizontal flip, rotation, normalization)
 - val accuracy 55%
 
-Questions:
+### Questions:
 1. what is the accuracy that we can target? Is that even a right metric here? 55% accuracy has a "decent" confusion matrix.
-2. What else can we try?
-- 
+2. is one of the issue combining two different datasets, and performing the same augmentation on them?
+3. should we look into cleaning the training datasets? removing datasets that have poor quality overall, and/or confusing ones? 
+Apart from doing it manually, what might be the right way?
+4. 
