@@ -54,7 +54,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] Reducing lighting-condition effects
 - [x] Cropping uninformative area
 - [x] Create custom dataloader based on ben graham kaggle winning strategy
-- [ ] create confusion matrices for each training permutation
+- [x] create confusion matrices for each training permutation
 - [ ] add specificity and sensitivity to indicators
 - [ ] create train loss and valid loss charts
 
