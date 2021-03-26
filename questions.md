@@ -23,3 +23,14 @@ Apart from doing it manually, what might be the right way?
 7. is left/right eye relevant for training purposes?
 8. nepal vs dataset from the west
 9. where do you host your models? (free, prefeably private)
+10. how can we oversample from classes with minimum samples?
+
+### Todos
+1. clean the images (somehow)
+2. (another thing to try) creating a different label (unknown) -> seek help from doctors
+3. test binary classification (label 0 vs label (1-4))
+4. test classification with three classes
+6. overfitting is not a bad idea if the eventual plan is to use it for the purposes of CHEERS
+8. https://laptrinhx.com/diabetic-retinopathy-winner-s-interview-1st-place-ben-graham-1774606885/
+9. try removing early stopping and tune hyperparameters
+10. azure
