@@ -20,4 +20,5 @@ Apart from doing it manually, what might be the right way?
 4. normally feature extraction should work but did not in this case, we had to fine tune the whole model. is this expected?
 5. should we add more layers on the classifier?
 6. how should we prepare when cheers dataset is also added? should that be part of the process from the starting?
-7. 
+7. is left/right eye relevant for training purposes?
+8. nepal vs dataset from the west
