@@ -43,7 +43,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] squeezenet
 - [x] densenet 
 - [x] inception
-- [ ] efficient net
+- [x] efficient net
 
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
