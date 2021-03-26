@@ -74,8 +74,9 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [ ] add datasets from cheers for training
 
 #### Test datasets
-- [ ] find datasets for testing (dataset apart from APTOS and EyePACS
-- [ ] find dataset for testing after making sure old test datasets are not in vaid/train
+- [x] find datasets for testing (dataset apart from APTOS and EyePACS) 
+- [ ] update folder structures to match our use case
+- [x] find dataset for testing after making sure old test datasets are not in vaid/train (4 will be empty)
 
 #### Concepts/Research Papers
 - [x] read reports from kaggle competition winning authors 
