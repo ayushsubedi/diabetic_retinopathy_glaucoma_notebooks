@@ -39,6 +39,9 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 ### Resource
 - [ ] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
 
+### Baseline
+- [ ] medicmind model
+
 #### Transfer Learning
 - [x] resnet
 - [x] alexnet
