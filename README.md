@@ -37,7 +37,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
 
 ### Resource
-- [ ] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
+- [x] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
 
 ### Baseline
 - [ ] medicmind model
