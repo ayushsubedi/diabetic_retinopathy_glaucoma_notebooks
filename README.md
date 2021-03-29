@@ -67,7 +67,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 
 
 #### Additional Models
-- [ ] check if left/right eye classification model is required
+- [x] check if left/right eye classification model is required
 
 #### Additional datasets
 - [x] make datasets more extensive (add test dataset with recoverd labels to train dataset 2015)
