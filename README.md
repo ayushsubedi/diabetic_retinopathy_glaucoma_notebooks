@@ -52,6 +52,10 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] inception
 - [x] efficient net
 
+#### Dataset clean images
+- [ ] remove black images
+- [ ] remoce out of focus images 
+
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
 - [x] research appropriate augmentation: optical distortion, grid distortion, piecewise affine transform, horizontal flip, vertical flip, random rotation, random shift, random scale, a shift of RGB values, random brightness and contrast, additive Gaussian noise, blur, sharpening, embossing, random gamma, and cutout
