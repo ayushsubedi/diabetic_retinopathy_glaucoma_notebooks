@@ -40,7 +40,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
 
 ### Baseline
-- [x] medicmind model (accuracy: 0.759)
+- [x] medicmind grading (accuracy: 0.8)
 
 #### Transfer Learning
 - [x] resnet
