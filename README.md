@@ -41,7 +41,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 
 ### Baseline
 - [x] medicmind grading (accuracy: 0.8)
-- [ ] medicmind classification (0.47)
+- [x] medicmind classification (0.47)
 
 #### Transfer Learning
 - [x] resnet
