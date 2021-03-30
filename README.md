@@ -65,6 +65,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] finetune vs feature extract
 - [ ] add specificity and sensitivity to indicators
 - [ ] create train loss and valid loss charts
+- [ ] test regression models (treat this as a grading problem)
 
 
 #### Additional Models
