@@ -54,7 +54,8 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 
 #### Dataset clean images
 - [x] create a backup of primary dataset (zip so that kaggle kernels can consume them too)
-- [ ] find algorithms to detect black/out of focus images
+- [x] find algorithms to detect black/out of focus images
+- [ ] identify correct threshold for dark and out of focus images
 - [ ] remove black images
 - [ ] remove out of focus images 
 
