@@ -53,9 +53,10 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] efficient net
 
 #### Dataset clean images
+- [x] create a backup of primary dataset (zip so that kaggle kernels can consume them too)
 - [ ] find algorithms to detect black/out of focus images
 - [ ] remove black images
-- [ ] remoce out of focus images 
+- [ ] remove out of focus images 
 
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
