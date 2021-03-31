@@ -53,6 +53,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] efficient net
 
 #### Dataset clean images
+- [ ] find algorithms to detect black/out of focus images
 - [ ] remove black images
 - [ ] remoce out of focus images 
 
