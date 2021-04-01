@@ -57,7 +57,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] find algorithms to detect black/out of focus images
 - [x] identify correct threshold for dark and out of focus images
 - [x] remove black images
-- [ ] remove out of focus images 
+- [x] remove out of focus images 
 
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
