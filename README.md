@@ -63,6 +63,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] create a stratified dataset with 2015 data only (convert train and test both to train and use), remove black images and out of focus images (also create test set)
 - [x] create non-stratified dataset with 2015 clean data only (train, test, valid) (upload in kaggle if google drive full)
 - [x] create a binary dataset (train, test, valid)
+- [x] create confusion matrices (train, test, valid) after clean up (dark and blurry)
 - [x] the model is confusing labels 0 and 1 as 2, is this due to disturbance in image in 0?
 
 #### Model Improvement
@@ -74,7 +75,6 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] Reducing lighting-condition effects
 - [x] Cropping uninformative area
 - [x] Create custom dataloader based on ben graham kaggle winning strategy
-- [x] create confusion matrices for each training permutation
 - [x] finetune vs feature extract
 - [ ] add specificity and sensitivity to indicators
 - [ ] create train loss and valid loss charts
