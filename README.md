@@ -59,6 +59,7 @@ Dataset: https://drive.google.com/drive/folders/1IiobofwchANFHXagGL9Mo3GiUWMzP9J
 - [x] remove black images
 - [x] remove out of focus images 
 - [x] create a stratified dataset with 2015 data only (convert train and test both to train and use), remove black images and out of focus images (also create test set)
+- [ ] create a non-stratified dataset with 2015 clean data only (train, test, valid)
 
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
