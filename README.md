@@ -61,7 +61,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] remove black images
 - [x] remove out of focus images 
 - [x] create a stratified dataset with 2015 data only (convert train and test both to train and use), remove black images and out of focus images (also create test set)
-- [ ] create non-stratified dataset with 2015 clean data only (train, test, valid) (upload in kaggle if google drive full)
+- [x] create non-stratified dataset with 2015 clean data only (train, test, valid) (upload in kaggle if google drive full)
 - [x] create a binary dataset (train, test, valid)
 
 #### Model Improvement
@@ -92,7 +92,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 
 #### Test datasets
 - [x] find datasets for testing (dataset apart from APTOS and EyePACS) 
-- [ ] update folder structures to match our use case
+- [x] update folder structures to match our use case
 - [x] find dataset for testing after making sure old test datasets are not in vaid/train (4 will be empty)
 
 #### Concepts/Research Papers
