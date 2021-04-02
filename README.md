@@ -60,7 +60,7 @@ Categorical Stratified: https://drive.google.com/drive/folders/1-A_Mx9GdeUwCd03T
 - [x] remove black images
 - [x] remove out of focus images 
 - [x] create a stratified dataset with 2015 data only (convert train and test both to train and use), remove black images and out of focus images (also create test set)
-- [ ] create a non-stratified dataset with 2015 clean data only (train, test, valid)
+- [ ] create non-stratified dataset with 2015 clean data only (train, test, valid) (upload in kaggle if google drive full)
 - [x] create a binary dataset (train, test, valid)
 
 #### Model Improvement
