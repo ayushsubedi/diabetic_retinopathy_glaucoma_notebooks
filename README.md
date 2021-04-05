@@ -64,7 +64,9 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] create non-stratified dataset with 2015 clean data only (train, test, valid) (upload in kaggle if google drive full)
 - [x] create a binary dataset (train, test, valid)
 - [x] create confusion matrices (train, test, valid) after clean up (dark and blurry)
-- [x] the model is confusing labels 0 and 1 as 2, is this due to disturbance in image in 0?
+- [x] the model is confusing labels 0 and 1 as 2, is this due to disturbance in image in 0. 
+- [x] concluded that the result is due to the model not capturing class 0 enough (due to undersampling)
+
 
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
@@ -76,9 +78,11 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] Cropping uninformative area
 - [x] Create custom dataloader based on ben graham kaggle winning strategy
 - [x] finetune vs feature extract
+- [x] oversample
+- [x] undersample
 - [ ] add specificity and sensitivity to indicators
 - [ ] create train loss and valid loss charts
-- [ ] test regression models (treat this as a grading problem)
+- [x] test regression models (treat this as a grading problem)
 
 
 #### Additional Models
@@ -104,8 +108,8 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] read ravi's article
 - [x] https://deim.urv.cat/~itaka/itaka2/PDF/acabats/PhD_Thesis/TESI_doctoral_Jordi_De_la_Torre.pdf
 - [x] what can go wrong https://yerevann.github.io/2015/08/17/diabetic-retinopathy-detection-contest-what-we-did-wrong/
-- [ ] https://arxiv.org/pdf/1902.07208.pdf 
-- [ ] identify more papers
+- [x] https://arxiv.org/pdf/1902.07208.pdf 
+- [x] identify more papers
 
 
 #### Engineering and Deployment
