@@ -76,6 +76,8 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] Cropping uninformative area
 - [x] Create custom dataloader based on ben graham kaggle winning strategy
 - [x] finetune vs feature extract
+- [ ] oversample
+- [ ] undersample
 - [ ] add specificity and sensitivity to indicators
 - [ ] create train loss and valid loss charts
 - [x] test regression models (treat this as a grading problem)
