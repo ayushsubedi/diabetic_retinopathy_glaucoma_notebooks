@@ -104,8 +104,8 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] read ravi's article
 - [x] https://deim.urv.cat/~itaka/itaka2/PDF/acabats/PhD_Thesis/TESI_doctoral_Jordi_De_la_Torre.pdf
 - [x] what can go wrong https://yerevann.github.io/2015/08/17/diabetic-retinopathy-detection-contest-what-we-did-wrong/
-- [ ] https://arxiv.org/pdf/1902.07208.pdf 
-- [ ] identify more papers
+- [x] https://arxiv.org/pdf/1902.07208.pdf 
+- [x] identify more papers
 
 
 #### Engineering and Deployment
