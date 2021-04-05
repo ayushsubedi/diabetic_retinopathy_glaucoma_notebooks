@@ -64,7 +64,9 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] create non-stratified dataset with 2015 clean data only (train, test, valid) (upload in kaggle if google drive full)
 - [x] create a binary dataset (train, test, valid)
 - [x] create confusion matrices (train, test, valid) after clean up (dark and blurry)
-- [x] the model is confusing labels 0 and 1 as 2, is this due to disturbance in image in 0?
+- [x] the model is confusing labels 0 and 1 as 2, is this due to disturbance in image in 0. 
+- [x] concluded that the result is due to the model not capturing class 0 enough (due to undersampling)
+
 
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
