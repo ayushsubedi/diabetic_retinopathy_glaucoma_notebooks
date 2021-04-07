@@ -6,12 +6,19 @@
 Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels damaging the back of the eye (retina). It can cause blindness if left undiagnosed and untreated. However, it usually takes several years for diabetic retinopathy to reach a stage where it could threaten your sight.
 
 
+## What worked?
+1. large dataset IPACS (used training (30%) and testing data (70%) from Kaggle. After the competition, the labels were published. Flipped the ratios. link to dataset https://www.kaggle.com/ayushsubedi/drunstratified
+2. to handle class imbalanced issue, used class weights. undersampling did not work.
+
+
+### TODOS
+
 ### Datasets
 Binary Stratified (cleaned): https://drive.google.com/drive/folders/12-60Gm7c_TMu1rhnMhSZjrkSqqAuSsQf?usp=sharing
 Categorical Stratified (cleaned): https://drive.google.com/drive/folders/1-A_Mx9GdeUwCd03TUxUS3vwcutQHFFSM?usp=sharing
 Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 
-### TODOS
+
 
 #### Priliminary
 - [x] create a new gmail account to store datasets (diabeticretinopathyglaucoma@gmail.com)
