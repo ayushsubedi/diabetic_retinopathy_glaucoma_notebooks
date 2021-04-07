@@ -95,6 +95,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] add specificity and sensitivity to indicators
 - [x] create train loss and valid loss charts
 - [x] test regression models (treat this as a grading problem)
+- [x] pickle weights
 
 
 #### Additional Models
