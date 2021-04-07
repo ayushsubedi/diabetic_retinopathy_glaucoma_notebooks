@@ -36,7 +36,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] create folder structures for saved model in the drive
 - [x] figure out a way to move files from kaggle to drive (without download/upload)
 - [x] research saving model (the frugal way)
-- [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
+- [x] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
 
 ### Resource
 - [x] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
@@ -80,8 +80,8 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] finetune vs feature extract
 - [x] oversample
 - [x] undersample
-- [ ] add specificity and sensitivity to indicators
-- [ ] create train loss and valid loss charts
+- [x] add specificity and sensitivity to indicators
+- [x] create train loss and valid loss charts
 - [x] test regression models (treat this as a grading problem)
 
 
