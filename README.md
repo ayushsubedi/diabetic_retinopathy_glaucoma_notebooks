@@ -11,7 +11,7 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 2. Remove out of focus images
 3. Remove too bright, and too dark images.
 4. Link to clean dataset https://www.kaggle.com/ayushsubedi/drunstratified
-5. To handle class imbalanced issue, used class weights. undersampling did not work. Pickled for future use.
+5. To handle class imbalanced issue, used weighted random samplers. Undersampling to match no of images in the least class (4) did not work. Pickled weights for future use.
 6. Ben Graham transformation and augmentations
 7. Inception v3 fine tuning, with aux logits trained (better results compared to other architecture)
 
