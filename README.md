@@ -8,12 +8,11 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 ## What worked? (85% accuracy)
 1. Large dataset IPACS (used training (30%) and testing data (70%) from Kaggle. After the competition, the labels were published. Flipped the ratios. link to dataset https://www.kaggle.com/ayushsubedi/drunstratified
-2. Remove out of focus, too bright, and too dark images.
-3. To handle class imbalanced issue, used class weights. undersampling did not work.
-4. Inception v3 fine tuning (better results compared to other architecture)
-5. Ben Graham transformation
-6. Augmentations like rotation, vertical and horizontal flip
-7. 
+2. Remove out of focus images
+3. Remove too bright, and too dark images.
+4. To handle class imbalanced issue, used class weights. undersampling did not work.
+5. Ben Graham transformation and augmentations
+6. Inception v3 fine tuning, with aux logits trained (better results compared to other architecture)
 
 
 ### TODOS
