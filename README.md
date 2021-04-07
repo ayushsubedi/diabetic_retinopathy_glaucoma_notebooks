@@ -7,8 +7,10 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 
 
 ## What worked?
-1. large dataset IPACS (used training (30%) and testing data (70%) from Kaggle. After the competition, the labels were published. Flipped the ratios. link to dataset https://www.kaggle.com/ayushsubedi/drunstratified
-2. to handle class imbalanced issue, used class weights. undersampling did not work.
+1. Large dataset IPACS (used training (30%) and testing data (70%) from Kaggle. After the competition, the labels were published. Flipped the ratios. link to dataset https://www.kaggle.com/ayushsubedi/drunstratified
+2. To handle class imbalanced issue, used class weights. undersampling did not work.
+3. Inception v3 fine tuning (better results compared to other architecture)
+4. 
 
 
 ### TODOS
