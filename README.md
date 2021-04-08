@@ -129,7 +129,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] Cheers fundus image has text label for left/right eye. Research on how this impacts ML
 - [x] If there is an impact, how to get around
 - [x] Create flask app
-- [ ] Create authentication for interface and API
+- [x] Create authentication for interface and API
 - [ ] Create a mechanism to store uploaded files
 - [ ] Create a mechanism for seemless transitioning when models are updated
 - [ ] Add issue trackers
