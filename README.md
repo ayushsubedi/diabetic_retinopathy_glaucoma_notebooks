@@ -143,7 +143,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 #### User Interface/API
 - [x] Create a streamlit app
 - [x] Create a demoable app to predict DR
-- [ ] Add swagger to the project for API documentation
+- [x] Add swagger to the project for API documentation
 - [ ] Add Sphinx for project documentation
 - [ ] Add bearer authentication for API
 - [ ] Provide additional information on the interface and not just the prediction (probability, index, charts etc)
