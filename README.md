@@ -147,7 +147,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [ ] Add Sphinx for project documentation
 - [ ] Add bearer authentication for API
 - [ ] Provide additional information on the interface and not just the prediction (probability, index, charts etc)
-- [ ] Use bulma or tailwind for CSS
+- [x] Use bulma or tailwind for CSS
 - [ ] Identify more UI/API todos
 
 
