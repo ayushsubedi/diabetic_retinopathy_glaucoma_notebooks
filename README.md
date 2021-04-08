@@ -52,6 +52,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 
 ### Resource
 - [x] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
+- [ ] upgrade to Colab Pro
 
 ### Baseline
 - [x] medicmind grading (accuracy: 0.8)
