@@ -127,6 +127,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 
 
 #### Engineering and Deployment
+- [ ] Create a specification documentation
 - [x] Cheers fundus image has text label for left/right eye. Research on how this impacts ML
 - [x] If there is an impact, how to get around
 - [x] Create flask app
