@@ -130,7 +130,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] If there is an impact, how to get around
 - [x] Create flask app
 - [x] Create authentication for interface and API
-- [ ] Create a mechanism to store uploaded files
+- [x] Create a mechanism to store uploaded files
 - [ ] Create a mechanism for seemless transitioning when models are updated
 - [ ] Add issue trackers
 - [ ] Identify more engineering problems
