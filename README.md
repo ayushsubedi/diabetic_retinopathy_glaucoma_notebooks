@@ -126,33 +126,6 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] identify more papers
 
 
-#### Engineering and Deployment
-- [ ] Create a specification documentation
-- [x] Cheers fundus image has text label for left/right eye. Research on how this impacts ML
-- [x] If there is an impact, how to get around
-- [x] Create flask app
-- [x] Create authentication for interface and API
-- [x] Create a mechanism to store uploaded files
-- [ ] Create a mechanism for seemless transitioning when models are updated
-- [ ] Add issue trackers
-- [ ] Identify more engineering problems
-- [ ] Figure out ways to deploy for staging
-- [ ] Create table schema
-- [ ] Identify patient tracking
-- [ ] Create a simple dashboard 
-
-
-#### User Interface/API
-- [x] Create a streamlit app
-- [x] Create a demoable app to predict DR
-- [x] Add swagger to the project for API documentation
-- [ ] Add Sphinx for project documentation
-- [ ] Add bearer authentication for API
-- [ ] Provide additional information on the interface and not just the prediction (probability, index, charts etc)
-- [x] Use bulma or tailwind for CSS
-- [ ] Identify more UI/API todos
-
-
 ## Glaucoma Prediction
 ![](https://www.inmedpharma.com/wp-content/uploads/2020/05/Glaucoma-compared-to-normal-vision.png)
 
