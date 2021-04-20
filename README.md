@@ -6,12 +6,24 @@
 Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels damaging the back of the eye (retina). It can cause blindness if left undiagnosed and untreated. However, it usually takes several years for diabetic retinopathy to reach a stage where it could threaten your sight.
 
 
+## What worked? (85% accuracy)
+1. Large dataset from EyePACS (Kaggle competition used training (30%) and testing data (70%) from Kaggle. After the competition, the labels were published). Flipped the ratios for our use case. 
+2. Remove out of focus images
+3. Remove too bright, and too dark images.
+4. Link to clean dataset https://www.kaggle.com/ayushsubedi/drunstratified
+5. To handle class imbalanced issue, used weighted random samplers. Undersampling to match no of images in the least class (4) did not work. Pickled weights for future use.
+6. Ben Graham transformation and augmentations
+7. Inception v3 fine tuning, with aux logits trained (better results compared to other architecture)
+
+
+### TODOS
+
 ### Datasets
 Binary Stratified (cleaned): https://drive.google.com/drive/folders/12-60Gm7c_TMu1rhnMhSZjrkSqqAuSsQf?usp=sharing
 Categorical Stratified (cleaned): https://drive.google.com/drive/folders/1-A_Mx9GdeUwCd03TUxUS3vwcutQHFFSM?usp=sharing
 Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 
-### TODOS
+
 
 #### Priliminary
 - [x] create a new gmail account to store datasets (diabeticretinopathyglaucoma@gmail.com)
@@ -36,10 +48,11 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] create folder structures for saved model in the drive
 - [x] figure out a way to move files from kaggle to drive (without download/upload)
 - [x] research saving model (the frugal way)
-- [ ] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
+- [x] research saving model to google drive after each epoch so that during unforseen interuptions, the training of the model can be continued 
 
 ### Resource
 - [x] upgrade to 25GB RAM in Google Colab possibly w/ Tesla P100 GPU
+- [ ] upgrade to Colab Pro
 
 ### Baseline
 - [x] medicmind grading (accuracy: 0.8)
@@ -80,9 +93,10 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] finetune vs feature extract
 - [x] oversample
 - [x] undersample
-- [ ] add specificity and sensitivity to indicators
-- [ ] create train loss and valid loss charts
+- [x] add specificity and sensitivity to indicators
+- [x] create train loss and valid loss charts
 - [x] test regression models (treat this as a grading problem)
+- [x] pickle weights
 
 
 #### Additional Models
@@ -112,32 +126,6 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] identify more papers
 
 
-#### Engineering and Deployment
-- [ ] Cheers fundus image has text label for left/right eye. Research on how this impacts ML
-- [ ] If there is an impact, how to get around
-- [ ] Create flask app
-- [ ] Create authentication for interface and API
-- [ ] Create a mechanism to store uploaded files
-- [ ] Create a mechanism for seemless transitioning when models are updated
-- [ ] Add issue trackers
-- [ ] Identify more engineering problems
-- [ ] Figure out ways to deploy for staging
-- [ ] Create table schema
-- [ ] Identify patient tracking
-- [ ] Create a simple dashboard 
-
-
-#### User Interface/API
-- [x] Create a streamlit app
-- [x] Create a demoable app to predict DR
-- [ ] Add swagger to the project for API documentation
-- [ ] Add Sphinx for project documentation
-- [ ] Add bearer authentication for API
-- [ ] Provide additional information on the interface and not just the prediction (probability, index, charts etc)
-- [ ] Use bulma or tailwind for CSS
-- [ ] Identify more UI/API todos
-
-
 ## Glaucoma Prediction
 ![](https://www.inmedpharma.com/wp-content/uploads/2020/05/Glaucoma-compared-to-normal-vision.png)
 
@@ -146,4 +134,4 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 ### TODOS
 
 - [ ] identify todos 
-- [ ] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z
+- [ ] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
