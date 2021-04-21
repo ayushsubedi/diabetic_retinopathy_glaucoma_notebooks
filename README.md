@@ -80,6 +80,9 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] the model is confusing labels 0 and 1 as 2, is this due to disturbance in image in 0. 
 - [x] concluded that the result is due to the model not capturing class 0 enough (due to undersampling)
 
+#### Inference
+- [ ] create a csv with preds probability and real label
+
 
 #### Model Improvement
 - [x] research kaggle winning augmentation for DR
