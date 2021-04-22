@@ -85,7 +85,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] calculate recall, precision, accuracy, confusion matrix
 - [x] identify different prediction issues
 - [x] relationship between difference in preds and accuracy
-- [ ] inference issue: labels 0 being predicted as 4
+- [x] inference issue: labels 0 being predicted as 4
 - [ ] inference issue: Check images from Grade 2, 3 being predicted as Grade 0
 - [ ] inference issue: Check images from Grade 4 being predicted as Grade 0
 - [ ] inference issue: Check images from Grade 0 being predicted as Grade 4
