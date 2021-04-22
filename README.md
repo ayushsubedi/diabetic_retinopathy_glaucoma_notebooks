@@ -83,8 +83,8 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 #### Inference
 - [x] create a csv with preds probability and real label
 - [x] calculate recall, precision, accuracy, confusion matrix
-- [ ] identify different prediction issues
-- [ ] identify ways to resolve them
+- [x] identify different prediction issues
+
 
 
 #### Model Improvement
