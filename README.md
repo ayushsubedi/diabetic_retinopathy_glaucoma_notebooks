@@ -90,7 +90,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] inference issue: Check images from Grade 4 being predicted as Grade 0
 - [x] inference issue: Check images from Grade 0 being predicted as Grade 4
 - [x] inference issue: A significant Grade 2 is being predicted as Grade 0
-- [ ] inference issue: More than 50% of Grade 1 is being predicted as Grade 0
+- [x] inference issue: More than 50% of Grade 1 is being predicted as Grade 0
 
 
 
