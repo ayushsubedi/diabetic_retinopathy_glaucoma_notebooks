@@ -86,7 +86,7 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] identify different prediction issues
 - [x] relationship between difference in preds and accuracy
 - [x] inference issue: labels 0 being predicted as 4
-- [ ] inference issue: Check images from Grade 2, 3 being predicted as Grade 0
+- [x] inference issue: Check images from Grade 2, 3 being predicted as Grade 0
 - [ ] inference issue: Check images from Grade 4 being predicted as Grade 0
 - [ ] inference issue: Check images from Grade 0 being predicted as Grade 4
 - [ ] inference issue: A significant Grade 2 is being predicted as Grade 0
