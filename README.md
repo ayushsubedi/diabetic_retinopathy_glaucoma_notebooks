@@ -81,7 +81,10 @@ Non Stratified (cleaned): https://www.kaggle.com/ayushsubedi/drunstratified
 - [x] concluded that the result is due to the model not capturing class 0 enough (due to undersampling)
 
 #### Inference
-- [ ] create a csv with preds probability and real label
+- [x] create a csv with preds probability and real label
+- [ ] calculate recall, precision, accuracy, confusion matrix
+- [ ] identify different prediction issues
+- [ ] identify ways to resolve them
 
 
 #### Model Improvement
