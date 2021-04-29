@@ -15,7 +15,7 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 6. Ben Graham transformation and augmentations
 7. Inception v3 fine tuning, with aux logits trained (better results compared to other architecture)
 8. Perform EDA on inference to observe what images were causing issues
-9. Removed the images and created another dataset 
+9. Removed the images and created another dataset (Link to the new dataset https://www.kaggle.com/ayushsubedi/cleannonstratifieddiabeticretinopathy
 10. See 5, 6, and 7
 
 
