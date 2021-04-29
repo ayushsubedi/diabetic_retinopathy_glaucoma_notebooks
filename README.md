@@ -6,7 +6,7 @@
 Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels damaging the back of the eye (retina). It can cause blindness if left undiagnosed and untreated. However, it usually takes several years for diabetic retinopathy to reach a stage where it could threaten your sight.
 
 
-## What worked? (85% accuracy)
+## What worked? (90% accuracy)
 1. Large dataset from EyePACS (Kaggle competition used training (30%) and testing data (70%) from Kaggle. After the competition, the labels were published). Flipped the ratios for our use case. 
 2. Remove out of focus images
 3. Remove too bright, and too dark images.
@@ -14,6 +14,9 @@ Diabetic retinopathy is a complication of diabetes, caused by high blood sugar l
 5. To handle class imbalanced issue, used weighted random samplers. Undersampling to match no of images in the least class (4) did not work. Pickled weights for future use.
 6. Ben Graham transformation and augmentations
 7. Inception v3 fine tuning, with aux logits trained (better results compared to other architecture)
+8. Perform EDA on inference to observe what images were causing issues
+9. Removed the images and created another dataset 
+10. See 5, 6, and 7
 
 
 ### TODOS
