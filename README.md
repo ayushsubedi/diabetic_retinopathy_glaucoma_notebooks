@@ -19,6 +19,7 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] create a dataset from Messidor
 - [x] create a dataset from Ocular Disease Recognition
 - [ ] create EDA on non measurement dataset (Ocular Disease Recognition)
+- [ ] create a dataset from ocular disease recognition to include normal and glaucoma images
 
 
 
