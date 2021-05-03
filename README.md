@@ -1,5 +1,28 @@
 
 # README
+
+## Glaucoma Prediction
+![](https://www.inmedpharma.com/wp-content/uploads/2020/05/Glaucoma-compared-to-normal-vision.png)
+
+Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged. It's usually caused by fluid building up in the front part of the eye, which increases pressure inside the eye. Glaucoma can lead to loss of vision if it's not diagnosed and treated early.
+
+### TODOS
+
+- [ ] identify todos 
+- [ ] create a gmail account
+- [ ] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
+
+
+
+
+
+
+
+
+
+
+
+
 ## Diabetic Retinopathy Prediction
 ![](https://gadsdeneye.com/wp-content/uploads/diabetic-retinopathy-vector.jpg)
 
@@ -143,13 +166,4 @@ Recleaned Non Stratified: https://www.kaggle.com/ayushsubedi/cleannonstratifiedd
 - [x] identify more papers
 
 
-## Glaucoma Prediction
-![](https://www.inmedpharma.com/wp-content/uploads/2020/05/Glaucoma-compared-to-normal-vision.png)
 
-Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged. It's usually caused by fluid building up in the front part of the eye, which increases pressure inside the eye. Glaucoma can lead to loss of vision if it's not diagnosed and treated early.
-
-### TODOS
-
-- [ ] identify todos 
-- [ ] create a gmail account
-- [ ] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
