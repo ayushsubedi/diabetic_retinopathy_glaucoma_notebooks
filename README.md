@@ -8,8 +8,11 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 
 ### TODOS
 
+## Preliminary
 - [ ] identify todos 
 - [x] create a gmail account (glaucomadetection@gmail.com)
+
+## Datasets
 - [x] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
 - [x] create a dataset from Magrabia
 - [x] create a dataset from Messidor
