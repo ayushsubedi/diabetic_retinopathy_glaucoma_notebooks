@@ -10,7 +10,7 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 
 ## Preliminary
 - [x] create a gmail account (glaucomadetection@gmail.com)
-- [ ] understand the difference between possibility of glaucoma by classification (vs measurements)
+- [x] understand the difference between possibility of glaucoma by classification (vs measurements)
 
 
 ## Datasets
