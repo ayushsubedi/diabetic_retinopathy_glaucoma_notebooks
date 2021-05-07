@@ -16,7 +16,7 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] ben transformation
 - [x] extract disk from fundus images 
 - [x] perform EDA on disk image to find troubling images (cases where crop does not work)
-- [ ] convert python function to extract disk to torch transform class
+- [x] convert python function to extract disk to torch transform class (failed)
 
 ## Datasets
 - [x] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
