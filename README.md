@@ -19,7 +19,7 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] convert python function to extract disk to torch transform class (failed)
 - [x] transformation to disk during training failed. create a disk dataset before training the model.
 - [x] train on new dataset with and without ben transformation
-- [ ] handle imbalanced class with class weighting
+- [x] handle imbalanced class with class weighting
 - [ ] convert Kaggle dataset to the format that we have templated our notebooks with
 
 ## Datasets
