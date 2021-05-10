@@ -17,7 +17,10 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] extract disk from fundus images 
 - [x] perform EDA on disk image to find troubling images (cases where crop does not work)
 - [x] convert python function to extract disk to torch transform class (failed)
-- [ ] transformation to disk during training failed. create a disk dataset before training the model.
+- [x] transformation to disk during training failed. create a disk dataset before training the model.
+- [x] train on new dataset with and without ben transformation
+- [ ] handle imbalanced class with class weighting
+- [ ] convert Kaggle dataset to the format that we have templated our notebooks with
 
 ## Datasets
 - [x] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
@@ -26,8 +29,7 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] create a dataset from Ocular Disease Recognition
 - [x] create EDA on non measurement dataset (Ocular Disease Recognition)
 - [x] create a dataset from ocular disease recognition to include normal and glaucoma images
-- [ ] find more datasets
-
+- [x] (Kaggle dataset, custom generated, filtered)https://www.kaggle.com/sshikamaru/glaucoma-detection?select=glaucoma.csv
 
 
 ## Diabetic Retinopathy Prediction
