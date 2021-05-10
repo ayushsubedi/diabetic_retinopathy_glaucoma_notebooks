@@ -30,7 +30,7 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] create EDA on non measurement dataset (Ocular Disease Recognition)
 - [x] create a dataset from ocular disease recognition to include normal and glaucoma images
 - [x] (Kaggle dataset, custom generated, filtered)https://www.kaggle.com/sshikamaru/glaucoma-detection?select=glaucoma.csv
-- [ ] train on Kaggle dataset (without changing anything)
+- [x] train on Kaggle dataset (without changing anything)
 
 
 ## Diabetic Retinopathy Prediction
