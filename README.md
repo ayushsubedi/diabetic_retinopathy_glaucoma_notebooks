@@ -22,7 +22,7 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] train on new dataset with and without ben transformation
 - [x] handle imbalanced class with class weighting
 - [x] convert Kaggle dataset to the format that we have templated our notebooks with
-- [ ] for kaggle dataset get disks using new algorithm
+- [x] for kaggle dataset get disks using new algorithm
 
 ## Datasets
 - [x] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
