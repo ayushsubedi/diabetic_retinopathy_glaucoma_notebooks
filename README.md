@@ -11,6 +11,10 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 ## What worked? (90% accuracy)
 1. densenet sequential with ben on himanchu dataset, using NLLLoss criterion, Adam optimizer 
 
+## Limitation
+1. very much dependent on dataset
+2. disk extraction is good but is very subjective to the dataset
+3. trained on very small dataset  
 
 ## Preliminary
 - [x] create a gmail account (glaucomadetection@gmail.com)
