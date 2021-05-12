@@ -26,8 +26,10 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 
 
 ## Obseverations in regards to disk generation
-- [ ] extraction of disk does not help (too many vague areas left unfilled)
-- [] 
+- extraction of disk does not help (too many vague areas left unfilled)
+- however, cropping shows very good promise
+- but, cropping requires somewhat similar of fundus images
+ 
 
 ## Datasets
 - [x] find datasets https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z, https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
