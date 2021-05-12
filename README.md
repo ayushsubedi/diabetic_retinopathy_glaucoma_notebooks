@@ -57,6 +57,8 @@ Glaucoma is a common eye condition where the optic nerve, which connects the eye
 - [x] densenet linear with ben on ocular, kaggle, and himanchu dataset (disk extracted, normal, and cropped dataset)
 - [x] densenet sequential with ben on ocular, kaggle, and himanchu dataset 
 - [x] densenet sequential with ben on ocular, kaggle, and himanchu dataset (disk extracted, normal, and cropped dataset)
+- [ ] add datasets from cheers for testing
+- [ ] add datasets from cheers for training
 
 
 ## Diabetic Retinopathy Prediction
